@@ -41,15 +41,3 @@
 **Server IP:** connect play.readyornotrp.com
 
 *Welcome to a new Serious RP city with custom scripts, active PD/EMS, jobs, gangs, housing, and more. Join us and be part of an immersive community with endless opportunities!*
-
-#SeriousRP #QBCore #NoPayToWin #RealisticRP #ActivePD #GangRP
-```
-
-To set up your server advertisement in your server configuration:
-
-```bash
-sv_tags "SeriousRP, Cops, EMS, Gangs, CustomCars, LA, CustomScripts, CityEvents, CityActivities, ImmersiveExperience, NoPayToPlay, QBCore, ActivePD, ActiveEMS, Housing, Jobs, RealisticRP"
-```
-
-```bash
-sets projectDesc "Welcome to a new Serious RP city with custom scripts, active PD/EMS, jobs, gangs, housing, and more. Join us and be part of an immersive community with endless opportunities!"
