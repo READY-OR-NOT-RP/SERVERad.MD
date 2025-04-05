@@ -36,8 +36,9 @@
 * Immersive interactions that create memorable stories
 
 ## JOIN OUR COMMUNITY TODAY!
-**⚠️ YOU MUST JOIN OUR DISCORD TO PLAY ⚠️**
+**⚠️ YOU MUST JOIN OUR DISCORD TO VERIFY AND BE WHITELISTED ⚠️**
 **Discord:** [discord.gg/w2wcf4FKfR](https://discord.gg/w2wcf4FKfR)
-**To Connect To The Server, Type This In Your F8 Client Console:* connect readyornotrp.com
+
+TrollyWoLLYS will be PermaBanned!
 
 *Welcome to a new Serious RP city with custom scripts, active PD/EMS, jobs, gangs, housing, and more. Join us and be part of an immersive community with endless opportunities!*
